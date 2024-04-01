@@ -19,7 +19,7 @@ To run SwiftText on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/swifttext.git
+   git clone https://github.com/Vig7037/SwiftText.git
    ```
 ## Usage
 File Menu: Create, open, and save text files.
