@@ -1,4 +1,4 @@
-# SwiftText - Simple Text Editor
+# STE - Simple Text Editor
 
 SwiftText is a simple text editor built using Python's Tkinter library. It provides basic functionality for creating, opening, saving, and editing text files, along with additional features like find and replace, changing font and text color, and changing the editor's theme.
 
